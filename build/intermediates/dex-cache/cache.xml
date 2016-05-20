@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ruslan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_21d5d72df6323a558e6a3f72e582bdde1862b4ea.jar" />
+    </item>
+    <item
+        jar="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9bb40e341c8470cc2bc93d318cbc42d558caeebc">
+        <dex dex="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/pre-dexed/debug/instant-run_3a84882f9a55de02c495520fac75006c4e14b27b.jar" />
+    </item>
+    <item
+        jar="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_48e00b6c0790a1abf196a34c6370993382bec4e9.jar" />
+    </item>
+    <item
+        jar="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_33b27fd96c2f8aaff17ef832fd0692161ecdecb0.jar" />
+    </item>
+    <item
+        jar="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3c2cbb328fc43ead2ef89ecd95427e5b1b63376f.jar" />
+    </item>
+    <item
+        jar="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_afe8e90ef58c7b1bea2bb84906541119eb8c95a1.jar" />
+    </item>
+    <item
+        jar="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_81c718613a219ae1769b9df5a2c1964e6da031a8.jar" />
+    </item>
+    <item
+        jar="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea1fe838f1f14b2632f2b5250ec737e58d27fff9">
+        <dex dex="/home/ruslan/AndroidStudioProjects/MyAppPorfolio/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b4fe05dc43a105dc2745605ec810aca17cb5b328.jar" />
+    </item>
+
+</items>
